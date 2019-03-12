@@ -1,5 +1,4 @@
-# 3DBuilding
-Generate 3D buildings from 2017 LiDAR
+# 3D Buildings
 
 # About
 NYC DoITT would like to use the 2017 aerial LiDAR data to generate/update our 3D buildings dataset. 
